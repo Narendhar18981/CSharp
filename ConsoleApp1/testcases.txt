@@ -1,3 +1,16 @@
+Positive testCases :
+    1. String 1 length can be any ( i.e. greater than 0 )
+    2. String 2 length should be greater than 0
+    3. String 2 length should be less than or equal to string 1 length
+
+ 
+
+Negative TestCase : ( Invalied Input )
+    1. String 1 length is 0
+    2. String 2 length is 0
+    3. String 2 length is greater than string 1 length
+
+
 Test case 01:-
 
 i/p:-string1=abcdabcabd
